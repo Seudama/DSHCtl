@@ -1,0 +1,9 @@
+# 构建产物
+vs-build/
+bin/
+libs/
+
+# IDE
+.vs/
+*.user
+*.suo
