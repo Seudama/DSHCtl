@@ -3,6 +3,9 @@ vs-build/
 bin/
 libs/
 
+# 发布包
+release/
+
 # IDE
 .vs/
 *.user
