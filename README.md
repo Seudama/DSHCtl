@@ -25,4 +25,9 @@ build.bat release deploy run :: 编译部署后直接运行
 - 双击 `bin\DSHCtl.exe` 打开控制窗口；关闭窗口最小化到托盘。
 - 支持命令行子命令：`start / stop / restart / status / logs`，参数 `--cmd --port --wait --scan --match --yes --lines --clear --cwd`。
 
+## 发布
+
+- 源码仓库：<https://github.com/Seudama/DSHCtl>
+- Release 下载（exe + Qt 运行库，开箱即用）：<https://github.com/Seudama/DSHCtl/releases/latest>
+
 详细说明见 `E:\WorkSpace\Python\dsh-boot\README.md`。
